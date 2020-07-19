@@ -47,23 +47,21 @@ _**Technical-Skills**_ : C, C++, Java, Python, Dart, Flutter, ML, NLP
 
 _**Specialization**_ : Flutter, ML
 
-_**GitHub-ID**_ :  
+_**GitHub-ID**_ :  https://github.com/arnav-snowleo
 
 ---
 
 ## Member 2 Details
 
-_**Name**_ :
+_**Name**_ : Chinmay Garnaik
 
-_**University-Name**_ : 
+_**University-Name**_ : Trident Academy of Technology
 
-_**country**_ :
+_**country**_ : India
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : Unity, Java, Kotlin, Firebase, Flutter, Dart
 
-_**Specialization**_ :
-
-_**GitHub-ID**_ :   
+_**Specialization**_ : Flutter
 
 ---
 
