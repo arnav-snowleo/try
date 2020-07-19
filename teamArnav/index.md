@@ -2,29 +2,29 @@
 type: "team"                   
 title: DemoTeam
 name: "DemoTeam"
-github-link: "https://github.com/ "
-description: "hello I am Bot Developer"
+github-link: "https://github.com/arnav-snowleo/ScannerApp "
+description: "hello I am Flutter App Developer"
 Team-Quote: ""
 Team_Tech_Stack: ""
 Application_Type: ""
-No_Of_Member: ""
+No_Of_Member: "2"
 ---
 
-Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
+Hey ! We are Team codeAR. We are here to win. and we also love open source.
 
 ---
 
 ## Project's Overview
 
-_**Theme-Name**_ : 
+_**Theme-Name**_ :  AtmaNirbhar Bharat
 
-_**Application-Type**_ :   Web Application | Website | Mobile Application (The Application should be hosted and Bundled)
+_**Application-Type**_ :   Mobile Application 
 
 _**Idea-Description**_ :   complete idea description goes here with max 400 words.
 
-_**Tech-Stack-Used**_ :   languages or framework used will go here.
+_**Tech-Stack-Used**_ :   The Mobile App will be built in Flutter framwork with Dart Language
 
-_**GitHub-Link**_ :   Github project Repository link Goes here (make a blank repository). 
+_**GitHub-Link**_ :   " https://github.com/arnav-snowleo/ScannerApp "
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 
@@ -32,21 +32,19 @@ _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submiss
 
 # Member Details
 
-_**No of members**_ : 
-
-Fill Team Details for only the valid no of members in your team and delete the leftover Template...
+_**No of members**_ :  2
 
 ## Leader Details
 
-_**Name**_ :
+_**Name**_ :  Arnav Satrusal
 
-_**University-Name**_ : 
+_**University-Name**_ :  IIIT Bhubaneswar
 
-_**country**_ :
+_**country**_ : India
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : C, C++, Java, Python, Dart, Flutter, ML, NLP
 
-_**Specialization**_ :
+_**Specialization**_ : Flutter, ML
 
 _**GitHub-ID**_ :  
 
