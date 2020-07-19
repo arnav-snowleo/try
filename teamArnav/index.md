@@ -1,17 +1,16 @@
 ---
 type: "team"                   
-title: DemoTeam
-name: "DemoTeam"
+title: codeAR
+name: "codeAR"
 github-link: "https://github.com/arnav-snowleo/ScannerApp "
 description: "hello I am Flutter App Developer"
-Team-Quote: ""
-Team_Tech_Stack: ""
-Application_Type: ""
+Team-Quote: "codeforgood"
+Team_Tech_Stack: "Flutter"
+Application_Type: "Mobile App"
 No_Of_Member: "2"
 ---
 
-Hey ! We are Team codeAR. We are here to win. and we also love open source.
-
+Hey ! We are Team codeAR. We are Tech-savvy teens who believe education without contributing to the society is meaningless and in the quest of AtmaNirbhar Bharat initiative we wish to code, code and make India self-reliant.
 ---
 
 ## Project's Overview
